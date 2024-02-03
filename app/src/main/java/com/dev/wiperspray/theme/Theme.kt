@@ -1,4 +1,4 @@
-package com.dev.wiperspray.ui.theme
+package com.dev.wiperspray.theme
 
 import android.app.Activity
 import androidx.compose.foundation.isSystemInDarkTheme

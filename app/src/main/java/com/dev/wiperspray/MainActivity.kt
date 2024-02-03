@@ -8,7 +8,7 @@ import androidx.compose.material3.Surface
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import com.dev.wiperspray.ui.MainView
-import com.dev.wiperspray.ui.theme.WiperSprayTheme
+import com.dev.wiperspray.theme.WiperSprayTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
